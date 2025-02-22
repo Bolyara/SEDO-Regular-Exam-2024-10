@@ -1,0 +1,13 @@
+D:\Programming\JavaLessons\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.deps.json
+D:\Programming\JavaLessons\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.runtimeconfig.json
+D:\Programming\JavaLessons\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+D:\Programming\JavaLessons\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+D:\Programming\JavaLessons\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.AssemblyReference.cache
+D:\Programming\JavaLessons\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\JavaLessons\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfoInputs.cache
+D:\Programming\JavaLessons\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfo.cs
+D:\Programming\JavaLessons\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+D:\Programming\JavaLessons\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.sourcelink.json
+D:\Programming\JavaLessons\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.dll
+D:\Programming\JavaLessons\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.pdb
+D:\Programming\JavaLessons\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache
